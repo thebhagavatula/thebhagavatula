@@ -38,8 +38,12 @@
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thebhagavatula&show_icons=true&theme=dark&hide_border=true&title_color=3fb950&icon_color=3fb950" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebhagavatula&layout=compact&theme=dark&hide_border=true&title_color=3fb950" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thebhagavatula&show_icons=true&theme=dark&hide_border=true&title_color=3fb950&icon_color=3fb950&text_color=ffffff" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebhagavatula&layout=compact&theme=dark&hide_border=true&title_color=3fb950&text_color=ffffff" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thebhagavatula&theme=dark&hide_border=true&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" height="150"/>
 </p>
 
 ---

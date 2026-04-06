@@ -29,7 +29,7 @@
 ## Core
 
 - Systems thinking  
-- Backend engineering  
+- prompt engineering  
 - AI-focused problem solving  
 - Scalable architecture  
 
@@ -45,13 +45,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=thebhagavatula&theme=dark&hide_border=true&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" height="150"/>
 </p>
-
----
-
-## Contact
-
-- Email: bhagavatulasrikarthikeya@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/thebhagavatula/  
 
 ---
 

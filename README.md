@@ -1,6 +1,6 @@
 <h1 align="center">Karthik</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-stack+Developer;I+build+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI/ML+Developer" />
 </p>
 
 ---

@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="letter-spacing: 3px;">KARTHIK</span>
+  <span style="letter-spacing: 3px;">Karthik</span>
 </h1>
 
 <p align="center">

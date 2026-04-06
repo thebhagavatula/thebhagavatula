@@ -39,7 +39,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=thebhagavatula&show_icons=true&theme=dark&hide_border=true&title_color=3fb950&icon_color=3fb950&text_color=ffffff" height="150"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thebhagavatula&layout=compact&theme=dark&hide_border=true&title_color=3fb950&text_color=ffffff" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thebhagavatula&layout=compact&theme=dark&hide_border=true&title_color=3fb950&text_color=ffffff" height="300"/>
 </p>
 
 <p align="center">

@@ -1,4 +1,6 @@
-# Karthik
+<h1 align="center">
+  <span style="letter-spacing: 3px;">KARTHIK</span>
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-active-3fb950?style=flat-square" />
@@ -15,7 +17,7 @@
 
 ---
 
-## Tech Stack
+## Tech Comb
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,rust" /><br/>

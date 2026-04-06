@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=cpp,python,java,rust" /><br/>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,docker" /><br/>
   <img src="https://skillicons.dev/icons?i=git,github,postman,figma,pycharm,vscode" /><br/>
-  <img src="https://skillicons.dev/icons?i=linux,bash,vim" />
+  <img src="https://skillicons.dev/icons?i=solidity,linux,bash,vim" />
 </p>
 
 ---

@@ -3,10 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Karthik&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h2 align="center">Engineer • AI-Oriented • Systems Thinker</h2>
+<h2 align="center">AI/ML Engineer • Systems Thinker</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=thebhagavatula&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -47,7 +47,6 @@
 <td align="center"><b>Version Control</b></td>
 <td align="center"><b>Tools</b></td>
 <td align="center"><b>Editors & Shell</b></td>
-<td></td>
 </tr>
 
 <tr>
@@ -60,7 +59,6 @@
 <td align="center">
 <img src="https://skillicons.dev/icons?i=linux,bash,vim"/>
 </td>
-<td></td>
 </tr>
 </table>
 
